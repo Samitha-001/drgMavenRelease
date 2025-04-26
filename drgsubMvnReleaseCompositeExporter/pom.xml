@@ -4,11 +4,11 @@
   <parent>
     <groupId>com.example</groupId>
     <artifactId>drgsubMvnRelease</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
   </parent>
   <groupId>com.example</groupId>
   <artifactId>drgsubMvnReleaseCompositeExporter</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <packaging>carbon/application</packaging>
   <name>drgsubMvnReleaseCompositeExporter</name>
   <description>drgsubMvnReleaseCompositeExporter</description>
@@ -24,31 +24,31 @@
     <dependency>
       <groupId>com.example.proxy-service</groupId>
       <artifactId>proxySample</artifactId>
-      <version>1.0.1-SNAPSHOT</version>
+      <version>1.0.1</version>
       <type>xml</type>
     </dependency>
     <dependency>
       <groupId>com.example.metadata</groupId>
       <artifactId>proxySample_proxy_metadata</artifactId>
-      <version>1.0.1-SNAPSHOT</version>
+      <version>1.0.1</version>
       <type>yaml</type>
     </dependency>
     <dependency>
       <groupId>com.example.api</groupId>
       <artifactId>apiSample</artifactId>
-      <version>1.0.1-SNAPSHOT</version>
+      <version>1.0.1</version>
       <type>xml</type>
     </dependency>
     <dependency>
       <groupId>com.example.metadata</groupId>
       <artifactId>apiSample_metadata</artifactId>
-      <version>1.0.1-SNAPSHOT</version>
+      <version>1.0.1</version>
       <type>yaml</type>
     </dependency>
     <dependency>
       <groupId>com.example.metadata</groupId>
       <artifactId>apiSample_swagger</artifactId>
-      <version>1.0.1-SNAPSHOT</version>
+      <version>1.0.1</version>
       <type>yaml</type>
     </dependency>
   </dependencies>
